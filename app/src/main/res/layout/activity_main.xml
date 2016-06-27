@@ -13,13 +13,7 @@
         android:text="MINISMARTII DISCONNECTED"
         android:textColor="#FFFFFF" />
 
-	<LinearLayout
-		android:id="@+id/linearLayoutBottom"
-		android:layout_width="match_parent"
-		android:layout_height="wrap_content"
-		>
 
-	</LinearLayout>
 
 	<LinearLayout
 	    android:id="@+id/linearLayoutBottom2"
